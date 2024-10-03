@@ -130,3 +130,5 @@ alert(x == 5 && y == 10);*/
 /*let x = 6
 let y = 12
 alert(y < x && x == 6);*/
+
+
